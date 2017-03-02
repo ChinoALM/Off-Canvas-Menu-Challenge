@@ -4,3 +4,24 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+/* Nav bar
+======================================= */
+
+.navbar {
+    position: fixed;
+    height: 100%;
+    width: 20%;
+    top: 0px;
+    left: 0px;
+    background-color: #99FF99;
+}
