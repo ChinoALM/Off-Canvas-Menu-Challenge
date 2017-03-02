@@ -18,6 +18,10 @@ html, body {
     left: 0px;
     background-color: #99FF99;
     overflow: hidden;
+
+    -webkit-transform: translate(-100%, 0);
+
+
 }
 
 .navbar h2 {
