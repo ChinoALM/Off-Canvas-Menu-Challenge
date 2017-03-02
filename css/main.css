@@ -12,6 +12,8 @@ html, body {
     height: 100%;
     background-color: #003333;
     text-align: center;
+
+    -webkit-transition: all 1s ease;
 }
 
 .text {
