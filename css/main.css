@@ -21,6 +21,11 @@ html, body {
     color: #ffffff;
 }
 
+#photo1 {
+    width: 100%;
+    height: auto;
+}
+
 .menu-toggle {
     display: block;
     color: #ffffff;
