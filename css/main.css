@@ -7,6 +7,31 @@ html, body {
     height: 100%;
 }
 
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #003333;
+    text-align: center;
+}
+
+.text {
+    padding-top: 20px;
+    color: #ffffff;
+}
+
+.menu-toggle {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.menu-toggle:hover {
+    color: #99FF99;
+    font-size: 20px;
+}
+
 /* Nav bar
 ======================================= */
 
