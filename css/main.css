@@ -46,7 +46,7 @@ html, body {
 
     -webkit-transform: translate(-100%, 0);
 
-
+    -webkit-transition: all 1s ease;
 }
 
 .navbar h2 {
